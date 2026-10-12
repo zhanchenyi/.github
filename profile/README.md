@@ -1,61 +1,31 @@
 # 你好，我是 Chenyin 👋 / Hi, I'm Chenyin 👋
 
-> 中国湖北的高中生 | 独立开发者 | [breakevery](https://github.com/breakevery) 发起人
-> High school student from Hubei, China | Indie Developer | Founder of [breakevery](https://github.com/breakevery)
+> 中国湖北的高中生 | 独立开发者
+> High school student from Hubei, China | Indie Developer
 
 ---
 
 ## 关于我 / About Me
 
 **中文：**
-我是一名来自中国湖北的高中生，热爱编程、开源文化与低层开发。我有独立开发经验，能够独立完成从架构设计、编码到服务器部署的完整流程，目前在运营自己的开源内核研究组织 [breakevery](https://github.com/breakevery)。
+我是一名来自中国湖北的高中生，热爱编程、开源文化与低层开发。我有独立开发经验，能够独立完成从架构设计、编码到服务器部署的完整流程。目前正在持续推进多个个人方向，同时也参与开源社区的建设。
 
 **English:**
-I am a high school student from Hubei, China. I love programming, open source culture, and low-level development. I have independent development experience and can complete the full cycle from architecture design and coding to server deployment. Currently, I run my own open source kernel research organization, [breakevery](https://github.com/breakevery).
+I am a high school student from Hubei, China. I love programming, open source culture, and low-level development. I have independent development experience and can complete the full cycle from architecture design and coding to server deployment. I am currently pushing forward several personal directions while also participating in the open source community.
 
 ---
 
-## 我的组织 / My Organization
+## 正在做的事 / What I'm Working On
 
 **中文：**
-[**breakevery**](https://github.com/breakevery) 是我发起的开源内核研究组织，专注于低层开发。我们正在构建 **RiscDom（智芯城）**——一个 AI 协同工作运行时，让一群 AI 在可审计、可隔离的沙箱里分工干活，所有动作进入哈希链，事后可对账、可归因[reference:1]。
-
-目前组织下已有多个仓库：
-- **riscdom** — 内核：agent / sandbox / audit / net / relay
-- **riscdom-server** — 控制平面：单机节点 HTTP 服务 + 最小 web 状态页
-- **riscdom-adminapp** — 管理程序：桌面（Tauri）+ 移动端（Android）
-
-当前状态：v1.0 主体已完成（2026-10）[reference:2]。
+- **独立项目** — 涵盖低层开发、AI 协同、Web 服务等方向，从设计到部署全程独立完成。
+- **开源社区** — 参与并推动开源协作，具体项目方向后续会逐步公开。
+- **持续学习** — 按自己的节奏补全技术栈，详见下方学习进度。
 
 **English:**
-[**breakevery**](https://github.com/breakevery) is the open source kernel research organization I founded, focused on low-level development. We are building **RiscDom (智芯城)** — an AI collaborative work runtime that lets a fleet of AIs divide work inside auditable, isolated sandboxes. Every action enters a hash chain — reconcilable and attributable after the fact[reference:3].
-
-The organization currently has several repositories:
-- **riscdom** — kernel: agent / sandbox / audit / net / relay
-- **riscdom-server** — control plane: single-node HTTP service + minimal web status page
-- **riscdom-adminapp** — admin app: desktop (Tauri) + mobile (Android)
-
-Current status: v1.0 core complete (2026-10)[reference:4].
-
----
-
-## 正在寻找 / I'm Looking For
-
-**中文：**
-breakevery 正在寻找以下方向的伙伴：
-
-- **Rust / 低层开发** — 内核、沙箱、网络协议方向
-- **前端 / Tauri** — 管理程序桌面端与移动端
-- **美术 / UI 设计** — 产品界面与视觉设计
-- **任何对 AI 协同、内核研究、开源有热情的人**
-
-**English:**
-breakevery is looking for partners in the following areas:
-
-- **Rust / Low-level development** — kernel, sandbox, network protocol
-- **Frontend / Tauri** — admin app desktop & mobile
-- **Art / UI Design** — product interface and visual design
-- **Anyone passionate about AI collaboration, kernel research, and open source**
+- **Independent projects** — covering low-level development, AI collaboration, and web services, completed independently from design to deployment.
+- **Open source community** — participating in and promoting open source collaboration. Specific project directions will be announced gradually.
+- **Continuous learning** — filling in my tech stack at my own pace. See the learning progress below.
 
 ---
 
@@ -96,11 +66,32 @@ breakevery is looking for partners in the following areas:
 
 ---
 
+## 正在寻找 / I'm Looking For
+
+**中文：**
+我正在寻找志同道合的伙伴，一起做有趣、有深度的项目。无论你是：
+
+- **程序开发者**（前端、后端、低层、移动端等）
+- **美术 / 设计师**（UI、插画、Logo 设计等）
+- **任何对技术、开源、创造有热情的人**
+
+只要你有想法和热情，都欢迎联系我聊聊。
+
+**English:**
+I am looking for like-minded partners to work on interesting and meaningful projects together. Whether you are:
+
+- **A developer** (frontend, backend, low-level, mobile, etc.)
+- **An artist / designer** (UI, illustration, logo design, etc.)
+- **Anyone passionate about technology, open source, and building things**
+
+If you have ideas and passion, feel free to reach out.
+
+---
+
 ## 联系我 / Contact Me
 
 - 📧 邮箱 / Email: [chenyindrager@outlook.com](mailto:chenyindrager@outlook.com)
 - 🐙 GitHub: [@zhanchenyi](https://github.com/zhanchenyi)
-- 🏢 组织 / Organization: [@breakevery](https://github.com/breakevery)
 
 ---
 
@@ -115,8 +106,8 @@ breakevery is looking for partners in the following areas:
 
 ## 一句话 / A Quote
 
-**中文：** 边界之内自由，AI 之外审计，root 权限归人。
-**English:** Freedom inside boundaries, audit outside the AI, root privilege with humans.
+**中文：** 保持好奇，持续创造。
+**English:** Stay curious, keep creating.
 
 ---
 
